@@ -1,0 +1,7 @@
+{
+  "name": "ios-getphoto-popup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
